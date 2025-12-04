@@ -3,7 +3,9 @@
 # OPTIKS
 
 Optimizied (gradient) Properties through Timing In K-Space.
-Please cite [TBD] when using this package.
+Please cite [1] when using this package.
+
+[1] M. A. McCready, X. Cao, K. Setsompop, J. M. Pauly and A. B. Kerr, "OPTIKS: Optimized Gradient Properties Through Timing in K-Space," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2025.3639398.
 
 This package is intended for the design of arbitrary k-space trajectory gradient waveforms in MRI, optimized to a custom
 loss function specified by the user. Implemented loss function terms include: time minimization, time bounding, 
