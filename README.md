@@ -85,24 +85,26 @@ becomes linear after some point x<sub>max</sub> - &delta;.
 ![alt text](https://github.com/mattmc-stanford/optiks/blob/main/leaky_logb_wb.png?raw=true)
 
 ## References
-_Paper coming soon_
+IEEE Transactions on Medical Imaging Paper:
 
-ISMRM Abstract (Under Review):
+[1] M. A. McCready, X. Cao, K. Setsompop, J. M. Pauly and A. B. Kerr, "OPTIKS: Optimized Gradient Properties Through Timing in K-Space," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2025.3639398.
 
-[1] _Optimized gradient Properties through Timing In K-Space (OPTIKS), M. A. McCready, X. Cao, C. Liao, K. Setsompop, J. M. Pauly, and A. B. Kerr. Proc. Intl. Soc. Mag. Res. Med., 2025_
+ISMRM Abstract:
+
+[2] _Optimized gradient Properties through Timing In K-Space (OPTIKS), M. A. McCready, X. Cao, C. Liao, K. Setsompop, J. M. Pauly, and A. B. Kerr. Proc. Intl. Soc. Mag. Res. Med., 2025_
 
 Background Literature:
 
-[2] M. Lustig, S.-J. Kim, and J. M. Pauly, “A fast method for designing time-optimal gradient waveforms for arbitrary k-space trajectories,” IEEE
+[3] M. Lustig, S.-J. Kim, and J. M. Pauly, “A fast method for designing time-optimal gradient waveforms for arbitrary k-space trajectories,” IEEE
 Transactions on Medical Imaging, vol. 27, no. 6, pp. 866–873, 2008.
 
-[3] The Fastest Arbitrary k-space Trajectories, S. Vaziri and M. Lustig. Abstract No 2284. Proc. Intl. Soc. Mag. Res. Med. 20, 2012
+[4] The Fastest Arbitrary k-space Trajectories, S. Vaziri and M. Lustig. Abstract No 2284. Proc. Intl. Soc. Mag. Res. Med. 20, 2012
 https://people.eecs.berkeley.edu/~mlustig/tOptGrad_ISMRM12.pdf
 
-[4] SAFE-Model - A New Method for Predicting Peripheral Nerve Stimulations in MRI, F.X. Herbank and M. Gebhardt. Abstract No 2007. Proc. Intl. Soc. Mag. Res. Med. 8, 2000, Denver, Colorado, USA
+[5] SAFE-Model - A New Method for Predicting Peripheral Nerve Stimulations in MRI, F.X. Herbank and M. Gebhardt. Abstract No 2007. Proc. Intl. Soc. Mag. Res. Med. 8, 2000, Denver, Colorado, USA
 https://cds.ismrm.org/ismrm-2000/PDF7/2007.PDF
 
-[5] “Medical electrical equipment - part 2–33: particular requirements for the basic safety and essential performance of magnetic resonance equipment
+[6] “Medical electrical equipment - part 2–33: particular requirements for the basic safety and essential performance of magnetic resonance equipment
 for medical diagnosis,” standard, International Electrotechnical Commission, Aug. 2022.
 
-[6] PulseSeq https://github.com/pulseq/pulseq
+[7] PulseSeq https://github.com/pulseq/pulseq
